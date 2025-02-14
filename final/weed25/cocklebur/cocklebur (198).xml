@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>cocklebur (198).JPG</filename>
+	<path>G:\my_datasets\images_annatations\1.cocklebur\images\cocklebur (198).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2992</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cocklebur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>257</ymin>
+			<xmax>2978</xmax>
+			<ymax>1700</ymax>
+		</bndbox>
+	</object>
+</annotation>

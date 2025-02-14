@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>abutilon theophrasti (38).JPG</filename>
+	<path>G:\my_datasets\images_annatations\6.tongma\images\abutilon theophrasti (38).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2992</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>abutilon theophrasti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>691</xmin>
+			<ymin>78</ymin>
+			<xmax>2200</xmax>
+			<ymax>1565</ymax>
+		</bndbox>
+	</object>
+</annotation>

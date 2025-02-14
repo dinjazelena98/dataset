@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Black nightshade (264).JPG</filename>
+	<path>G:\my_datasets\images_annatations\19.Black nightshade\images\Black nightshade (264).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2992</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Black_nightshade</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>933</xmin>
+			<ymin>310</ymin>
+			<xmax>2031</xmax>
+			<ymax>1755</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Black_nightshade</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>1146</ymin>
+			<xmax>582</xmax>
+			<ymax>1851</ymax>
+		</bndbox>
+	</object>
+</annotation>

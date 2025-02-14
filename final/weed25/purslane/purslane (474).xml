@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>purslane (474).JPG</filename>
+	<path>G:\my_datasets\images_annations\2.purslane\images\purslane (474).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>purslane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1048</xmin>
+			<ymin>1787</ymin>
+			<xmax>1919</xmax>
+			<ymax>2182</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>purslane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1982</xmin>
+			<ymin>899</ymin>
+			<xmax>2536</xmax>
+			<ymax>1466</ymax>
+		</bndbox>
+	</object>
+</annotation>

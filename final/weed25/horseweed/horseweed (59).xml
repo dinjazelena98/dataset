@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>horseweed (59).JPG</filename>
+	<path>G:\my_datasets\images_annatations\24.horseweed\images\horseweed (59).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>horseweed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2684</xmin>
+			<ymin>1322</ymin>
+			<xmax>3863</xmax>
+			<ymax>2700</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horseweed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1684</xmin>
+			<ymin>669</ymin>
+			<xmax>3050</xmax>
+			<ymax>2413</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pigweed (954).JPG</filename>
+	<path>G:\my_datasets\images_annatations\3.pigweed\images\pigweed (954).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2992</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pigweed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>728</xmin>
+			<ymin>493</ymin>
+			<xmax>2015</xmax>
+			<ymax>1438</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pigweed</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>1</ymin>
+			<xmax>1617</xmax>
+			<ymax>770</ymax>
+		</bndbox>
+	</object>
+</annotation>
