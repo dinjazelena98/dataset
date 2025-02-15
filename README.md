@@ -215,3 +215,19 @@ URL: [RUMEX](https://github.com/DTU-PAS/RumexWeeds)
 - While **Broad-leaved Dock** is not explicitly listed in the **Corn/Wheat dataset**, its close relation to **Curly Dock** makes it relevant for weed detection and classification in **corn** and **wheat fields**.
 
 This information can be useful for weed detection models and for considering the relationship between different dock species in agricultural settings.
+
+
+### CottonWeedDet12
+
+URL: [COTTONWEED12](https://www.sciencedirect.com/science/article/abs/pii/S0168169923000431)
+
+| **Scientific(CottoWeedDet12)**   | **Common Name (CottoWeedDet12)**   | **Common(US)**    | **Crop** | **Weed** |
+|----------------------------------------|------------------------------------|----------------------------------|---------------|---------------|
+| *Amaranthus retroflexus*               | Redroot Pigweed                    | Pigweed                          | Corn          | Broadleaf     |
+| *Chenopodium album*                    | Lamb's Quarters                    | Lamb's Quarters                  | Corn          | Broadleaf     |
+| *Erigeron canadensis*                  | Canadian Horseweed                 | Horseweed                        | Corn          | Broadleaf     |
+| *Solanum nigrum*                       | Black Nightshade                   | Black Nightshade                 | Corn          | Broadleaf     |
+| *Abutilon theophrasti*                 | Velvetleaf                         | Velvetleaf                       | Corn          | Broadleaf     |
+| *Xanthium strumarium*                  | Common Cocklebur                   | Common Cocklebur                 | Corn          | Broadleaf     |
+| *Portulaca oleracea*                   | Common Purslane                    | Common Purslane                  | Corn          | Broadleaf     |
+| *Ambrosia artemisiifolia*              | Common Ragweed                     | Common Ragweed                   | Corn          | Broadleaf     |
