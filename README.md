@@ -287,3 +287,16 @@ URL: [URL](https://github.com/LAR/lincolnbeet_dataset)
 | *Erigeron canadensis*          | Horseweed                 | Horseweed                         | Corn          | Broadleaf     |                     |
 | *Bassia scoparia*              | Kochia                    | Not Found                         | -             | -             |                     |
 | *Amaranthus tuberculatus*      | Waterhemp                 | Closely related to **Pigweed**    | Corn          | Broadleaf     | **Pigweed** (*Amaranthus retroflexus*) |
+
+
+### BECK
+
+URL: [BECK](https://www.cs.usask.ca/faculty/stavness/cvppa2021/abstracts/Beck_07.pdf)
+
+| **Scientific(Paper)**   | **Common(Paper)**   | **Common(US)**    | **Crop** | **Weed** | **Closely Related** |
+|-------------------------------|---------------------------|-----------------------------------|---------------|---------------|---------------------|
+| *Echinochloa crus-galli*       | Barnyard Grass            | Barnyard Grass                    | Corn          | Grass         |                     |
+| *Cirsium arvense*             | Canada Thistle            | Canada Thistle                    | Corn          | Broadleaf     |                     |
+| *Fallopia convolvulus*        | Wild Buckwheat            | Pale Persicaria                   | Corn          | Broadleaf     | **Pale Persicaria** (*Polygonum lapathifolium*) |
+| *Setaria glauca*              | Yellow Foxtail            | Wild Oat                          | Corn          | Grass         | **Wild Oat** (*Avena fatua*) |
+
