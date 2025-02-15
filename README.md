@@ -40,3 +40,11 @@ URL: [WEEDDATASET](https://github.com/zhangchuanyin/weed-datasets/tree/master)
 * Bluegrass (Poa pratensis) → Wheat (Grass)
 
 
+### MMDWWF
+
+URL: [MMDWWF](https://github.com/cocococoxu/MMDWWF?tab=readme-ov-file)
+PAPER: [PAPER](https://pmc.ncbi.nlm.nih.gov/articles/PMC9443486/)
+
+
+* Echinochloa crus-galli (Barnyard Grass) → Corn/Wheat (Grass)
+* Amaranthus retroflexus (Redroot Pigweed) → Corn (Broadleaf)
