@@ -273,3 +273,17 @@ URL: [TOBSET](https://www.mdpi.com/2076-3417/12/3/1308)
 | *Ambrosia artemisiifolia*      | Common Ragweed           | Common Ragweed                    | Corn          | Broadleaf     | A common **broadleaf weed** found in various fields. |
 | *Portulaca oleracea*           | Common Purslane          | Common Purslane                   | Corn          | Broadleaf     | Found in both **cornfields** and **tobacco fields**. |
 | **General Weeds**              | Weeds related to tobacco | Various Weeds                     | Tobacco       | Broadleaf/Grass | General weed species in **tobacco fields**, similar to **weed control** in **corn/wheat fields**. |
+
+
+
+### Towards Practical Object Detection for Weed Spraying
+
+URL: [URL](https://github.com/LAR/lincolnbeet_dataset)
+
+| **Scientific(Paper)**   | **Common(Paper)**   | **Common(US)**    | **Crop** | **Weed** | **Closely Related** |
+|-------------------------------|---------------------------|-----------------------------------|---------------|---------------|---------------------|
+| *Amaranthus retroflexus*       | Redroot Pigweed           | Pigweed                           | Corn          | Broadleaf     | **Waterhemp** (*Amaranthus tuberculatus*) |
+| *Ambrosia artemisiifolia*      | Common Ragweed            | Common Ragweed                    | Corn          | Broadleaf     |                     |
+| *Erigeron canadensis*          | Horseweed                 | Horseweed                         | Corn          | Broadleaf     |                     |
+| *Bassia scoparia*              | Kochia                    | Not Found                         | -             | -             |                     |
+| *Amaranthus tuberculatus*      | Waterhemp                 | Closely related to **Pigweed**    | Corn          | Broadleaf     | **Pigweed** (*Amaranthus retroflexus*) |
