@@ -231,3 +231,20 @@ URL: [COTTONWEED12](https://www.sciencedirect.com/science/article/abs/pii/S01681
 | *Xanthium strumarium*                  | Common Cocklebur                   | Common Cocklebur                 | Corn          | Broadleaf     |
 | *Portulaca oleracea*                   | Common Purslane                    | Common Purslane                  | Corn          | Broadleaf     |
 | *Ambrosia artemisiifolia*              | Common Ragweed                     | Common Ragweed                   | Corn          | Broadleaf     |
+
+
+
+### SorghumWeedDataset
+
+URL: [SorghumWeedDataset](https://data.mendeley.com/datasets/y9bmtf4xmr/1)
+
+| **Scientific(SorghumWeedDataset)**   | **Common(SorghumWeedDataset)**   | **Common(US)**    | **Crop** | **Weed** |
+|--------------------------------------------|---------------------------------------|-----------------------------------|---------------|---------------|
+| *Amaranthus retroflexus*                   | Redroot Pigweed                       | Pigweed                           | Corn          | Broadleaf     |
+| *Chenopodium album*                        | Lamb's Quarters                       | Lamb's Quarters                   | Corn          | Broadleaf     |
+| *Erigeron canadensis*                      | Canadian Horseweed                    | Horseweed                         | Corn          | Broadleaf     |
+| *Solanum nigrum*                           | Black Nightshade                      | Black Nightshade                  | Corn          | Broadleaf     |
+| *Abutilon theophrasti*                     | Velvetleaf                            | Velvetleaf                        | Corn          | Broadleaf     |
+| *Xanthium strumarium*                      | Common Cocklebur                      | Common Cocklebur                  | Corn          | Broadleaf     |
+| *Portulaca oleracea*                       | Common Purslane                       | Common Purslane                   | Corn          | Broadleaf     |
+| *Ambrosia artemisiifolia*                  | Common Ragweed                        | Common Ragweed                    | Corn          | Broadleaf     |
