@@ -248,3 +248,16 @@ URL: [SorghumWeedDataset](https://data.mendeley.com/datasets/y9bmtf4xmr/1)
 | *Xanthium strumarium*                      | Common Cocklebur                      | Common Cocklebur                  | Corn          | Broadleaf     |
 | *Portulaca oleracea*                       | Common Purslane                       | Common Purslane                   | Corn          | Broadleaf     |
 | *Ambrosia artemisiifolia*                  | Common Ragweed                        | Common Ragweed                    | Corn          | Broadleaf     |
+
+
+
+### ImageWeeds
+
+URL: [ImageWeeds](https://data.mendeley.com/datasets/8kjcztbjz2/2)
+
+| **Scientific(Paper)**   | **Common(Paper)**      | **Common(us)**    | **Crop** | **Weed** | **Closely Related** |
+|-------------------------------|------------------------------|-----------------------------------|---------------|---------------|---------------------|
+| *Amaranthus retroflexus*       | Redroot Pigweed              | Pigweed                           | Corn          | Broadleaf     | **Waterhemp** (*Amaranthus tuberculatus*) |
+| *Ambrosia artemisiifolia*      | Common Ragweed               | Common Ragweed                    | Corn          | Broadleaf     |                     |
+| *Erigeron canadensis*          | Horseweed                    | Horseweed                         | Corn          | Broadleaf     |                     |
+| *Amaranthus tuberculatus*      | Waterhemp                    | Closely related to **Pigweed**    | Corn          | Broadleaf     | **Pigweed** (*Amaranthus retroflexus*) |
