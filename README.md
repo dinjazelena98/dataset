@@ -179,3 +179,28 @@ URL: [CropandWeed](https://paperswithcode.com/dataset/cropandweed-dataset)
 | *Cirsium arvense*               | Canada Thistle                | Canada Thistle                    | Corn          | Broadleaf     |
 | *Convolvulus arvensis*          | Field Bindweed                | Field Bindweed                    | Corn          | Broadleaf     |
 
+
+### PhenoBench Dataset
+
+URL: [PHENO](https://www.phenobench.org/dataset.html)
+
+| **Scientific (Paper)**    | **Common(Paper)**  | **Common(US)**       | **Crop** | **Weed** |
+|---------------------------------|--------------------------|---------------------------------|---------------|---------------|
+| *Chenopodium album*             | Lamb's Quarters          | Lamb's Quarters                 | Corn          | Broadleaf     |
+| *Polygonum lapathifolium*       | Pale Persicaria          | Pale Persicaria                 | Corn          | Broadleaf     |
+| *Bilderdykia convolvulus*      | Bindweed                 | Field Bindweed                  | Corn          | Broadleaf     |
+
+### WE3DS
+
+URL: [WE3DS](https://zenodo.org/records/7457983)
+
+| **Scientific(Paper)**   | **Common(Paper)**    | **Common(US)**    | **Crop** | **Weed** |
+|-------------------------------|----------------------------|-----------------------------------|---------------|---------------|
+| *Amaranthus retroflexus*       | Redroot Pigweed            | Pigweed                           | Corn          | Broadleaf     |
+| *Chenopodium album*            | Lamb's Quarters            | Lamb's Quarters                   | Corn          | Broadleaf     |
+| *Erigeron canadensis*          | Canadian Horseweed         | Horseweed                         | Corn          | Broadleaf     |
+| *Solanum nigrum*               | Black Nightshade           | Black Nightshade                  | Corn          | Broadleaf     |
+| *Abutilon theophrasti*         | Velvetleaf                 | Velvetleaf                        | Corn          | Broadleaf     |
+| *Xanthium strumarium*          | Common Cocklebur           | Common Cocklebur                  | Corn          | Broadleaf     |
+| *Portulaca oleracea*           | Common Purslane            | Common Purslane                   | Corn          | Broadleaf     |
+| *Ambrosia artemisiifolia*      | Common Ragweed             | Common Ragweed                    | Corn          | Broadleaf     |
