@@ -80,3 +80,89 @@ URL: [DATASET](https://pmc.ncbi.nlm.nih.gov/articles/PMC7305380/)
 | *Chenopodium album*              | Common Lambsquarters              | Goosefoot                          | Corn          | Broadleaf     |
 | *Galium aparine*                 | Cleavers                          | Catchweed                          | Corn          | Broadleaf     |
 
+
+### ROBOFLOW UNIVERSE
+
+URL: [URL](https://universe.roboflow.com/4weed/crops-2-5czbt)
+
+* Cocklebur → Xanthium strumarium (Common Cocklebur)
+* Pigweed → Amaranthus retroflexus / A. hybridus / A. blitoides / A. albus (Redroot Pigweed, Smooth Pigweed, Prostrate Pigweed, Tumble Pigweed)
+* Ragweed → Ambrosia artemisiifolia (Common Ragweed)
+
+URL: [URL](https://universe.roboflow.com/fares-ta4tr/weed-detection-ce5mg)
+
+* Pigweed → Amaranthus retroflexus / A. hybridus / A. blitoides / A. albus (Redroot Pigweed, Smooth Pigweed, Prostrate Pigweed, * Tumble Pigweed)
+* Spurge → Euphorbia sp. (Spurge)
+* Velvetleaf → Abutilon theophrasti (Velvetleaf)
+
+
+URL: [URL](https://universe.roboflow.com/ml-ooz70/weed-fgksa)
+* Ragweed → Ambrosia artemisiifolia (Common Ragweed)
+* Pigweed → Amaranthus retroflexus / A. hybridus / A. blitoides / A. albus (Redroot Pigweed, Smooth Pigweed, Prostrate Pigweed, Tumble Pigweed)
+* Cocklebur → Xanthium strumarium (Common Cocklebur)
+
+URL: [URL](https://universe.roboflow.com/tests-fu2sg/4weeds)
+
+* Cocklebur → Xanthium strumarium (Common Cocklebur)
+* Foxtail → Could refer to Green Foxtail.
+* Pigweed → Amaranthus retroflexus / A. hybridus / A. blitoides / A. albus (Redroot Pigweed, Smooth Pigweed, Prostrate Pigweed, Tumble Pigweed)
+* Ragweed → Ambrosia artemisiifolia (Common Ragweed)
+
+
+
+URL: [URL](https://universe.roboflow.com/unkraut/weeds-ssj2r)
+
+* Pigweed → Amaranthus retroflexus / A. hybridus / A. blitoides / A. albus (Redroot Pigweed, Smooth Pigweed, Prostrate Pigweed, Tumble Pigweed)
+
+
+URL: [URL](https://universe.roboflow.com/unkraut/unkrautneu)
+* Black Nightshade → Solanum nigrum (Black Nightshade)
+* Pigweed → Amaranthus retroflexus / A. hybridus / A. blitoides / A. albus (Redroot Pigweed, Smooth Pigweed, Prostrate Pigweed, Tumble Pigweed)
+
+URL: [URL](https://universe.roboflow.com/weed-warriors/weed-robot-project)
+
+* Pigweed → Amaranthus retroflexus / A. hybridus / A. blitoides / A. albus (Redroot Pigweed, Smooth Pigweed, Prostrate Pigweed, Tumble Pigweed)
+* Purslane → Portulaca oleracea (Common Purslane)
+
+URL: [URL](https://universe.roboflow.com/kbs-mel/weed-detection-in-cotton-fields)
+
+* Pigweed → Amaranthus retroflexus / A. hybridus / A. blitoides / A. albus (Redroot Pigweed, Smooth Pigweed, Prostrate Pigweed, Tumble Pigweed)
+* Purslane → Portulaca oleracea (Common Purslane)
+* Ragweed → Ambrosia artemisiifolia (Common Ragweed)
+
+
+URL: [URL](https://universe.roboflow.com/kbs-sillb/multi-label-classification-of-weed-species)
+* Purslane → Portulaca oleracea (Common Purslane)
+* Ragweed → Ambrosia artemisiifolia (Common Ragweed)
+
+
+URL: [URL](https://universe.roboflow.com/first-inco4/object-classifier-fjyhd)
+
+Purslane → Portulaca oleracea (Common Purslane)
+Ragweed → Ambrosia artemisiifolia (Common Ragweed)
+
+URL [URL](https://universe.roboflow.com/myworkdrive/mlmodel)
+
+* cocklebur
+
+
+### LEAF DATASET
+
+URL: [URL](https://www.kaggle.com/datasets/jaidalmotra/weed-detection/data)
+
+
+### CropAndWeed
+
+URL: [CropandWeed](https://paperswithcode.com/dataset/cropandweed-dataset)
+| **Scientific(Paper)**     | **Common(Paper)**       | **Common(US)**         | **Crop** | **Weed** |
+|---------------------------------|-------------------------------|-----------------------------------|---------------|---------------|
+| *Amaranthus retroflexus*        | Redroot Pigweed               | Pigweed                           | Corn          | Broadleaf     |
+| *Chenopodium album*             | Lamb's Quarters               | Lamb's Quarters                   | Corn          | Broadleaf     |
+| *Erigeron canadensis*           | Canadian Horseweed            | Horseweed                         | Corn          | Broadleaf     |
+| *Solanum nigrum*                | Black Nightshade              | Black Nightshade                  | Corn          | Broadleaf     |
+| *Abutilon theophrasti*          | Velvetleaf                    | Velvetleaf                        | Corn          | Broadleaf     |
+| *Xanthium strumarium*           | Common Cocklebur              | Common Cocklebur                  | Corn          | Broadleaf     |
+| *Portulaca oleracea*            | Common Purslane               | Common Purslane                   | Corn          | Broadleaf     |
+| *Ambrosia artemisiifolia*       | Common Ragweed                | Common Ragweed                    | Corn          | Broadleaf     |
+| *Cirsium arvense*               | Canada Thistle                | Canada Thistle                    | Corn          | Broadleaf     |
+| *Convolvulus arvensis*          | Field Bindweed                | Field Bindweed                    | Corn          | Broadleaf     |
