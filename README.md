@@ -18,18 +18,6 @@ URL: [WEED25](https://www.frontiersin.org/journals/plant-science/articles/10.338
 | *Portulaca oleracea*             | Common Purslane                    | Purslane                           | Corn          | Broadleaf     |
 
 
-
-### DeepWeeds
-
-URL: [DEEPWEEDS](https://github.com/AlexOlsen/DeepWeeds)
-
-| **Scientific(US)**   | **Common(US)**         | **Common(paper)**    | **Crop** | **Weed** |
-|--------------------------------------|---------------------------------------|----------------------------------------|---------------|---------------|
-| *Amaranthus retroflexus*             | Redroot Pigweed                       | Pigweed                                | Corn          | Broadleaf     |
-| *Eleusine indica*                    | Goosegrass                            | Goosegrass                             | Corn/Wheat    | Grass         |
-| *Ambrosia artemisiifolia*            | Common Ragweed                        | Ragweed                                | Corn          | Broadleaf     |
-
-
 ### BROADLEAF DOCK DATASET
 
 URL: [DOCK](https://www.kaggle.com/datasets/gavinarmstrong/open-sprayer-images/data)
