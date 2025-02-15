@@ -204,3 +204,14 @@ URL: [WE3DS](https://zenodo.org/records/7457983)
 | *Xanthium strumarium*          | Common Cocklebur           | Common Cocklebur                  | Corn          | Broadleaf     |
 | *Portulaca oleracea*           | Common Purslane            | Common Purslane                   | Corn          | Broadleaf     |
 | *Ambrosia artemisiifolia*      | Common Ragweed             | Common Ragweed                    | Corn          | Broadleaf     |
+
+
+### Broad-leaved Dock and Curly Dock in Weed Detection
+
+URL: [RUMEX](https://github.com/DTU-PAS/RumexWeeds)
+
+- **Broad-leaved Dock** (*Rumex obtusifolius*) is one of the main target weeds for detection in **grasslands** in the **RumexWeeds dataset** used for agricultural robotics.
+- **Curly Dock** (*Rumex crispus*) is closely related to **Broad-leaved Dock** (*Rumex obtusifolius*) and is present in the **Corn/Wheat dataset**.
+- While **Broad-leaved Dock** is not explicitly listed in the **Corn/Wheat dataset**, its close relation to **Curly Dock** makes it relevant for weed detection and classification in **corn** and **wheat fields**.
+
+This information can be useful for weed detection models and for considering the relationship between different dock species in agricultural settings.
