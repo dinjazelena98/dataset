@@ -1,4 +1,4 @@
-### [Weed25](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.1053329/full)
+### [Weed25 dataset](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.1053329/full)
 
 ### Matching Weeds from Weed25 Dataset and our Corn/Wheat Dataset
 
