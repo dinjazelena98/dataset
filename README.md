@@ -300,3 +300,50 @@ URL: [BECK](https://www.cs.usask.ca/faculty/stavness/cvppa2021/abstracts/Beck_07
 | *Fallopia convolvulus*        | Wild Buckwheat            | Pale Persicaria                   | Corn          | Broadleaf     | **Pale Persicaria** (*Polygonum lapathifolium*) |
 | *Setaria glauca*              | Yellow Foxtail            | Wild Oat                          | Corn          | Grass         | **Wild Oat** (*Avena fatua*) |
 
+
+### AgBot
+
+URL: [PAPER](https://www.sciencedirect.com/science/article/abs/pii/S0168169921000995)
+DATA: [DATA](https://github.com/DigitalAgricultureDiscovery/AgBotSamples)
+
+Cocklebur → Xanthium strumarium (Common Cocklebur)
+Redroot Pigweed → Amaranthus retroflexus (Pigweed)
+
+
+
+### Poaceae (Grass Family) Weeds in Your Dataset
+
+URL [GRASS](https://weed-ai.sydney.edu.au/datasets/aa0cb351-9b5a-400f-bb2e-ed02b2da3699)
+
+The **Poaceae** family, commonly known as the **grass family**, includes a wide variety of **grass-type weeds** that are often found in **corn** and **wheat** fields. These grasses can be competitive and affect crop yields by competing for resources such as water, light, and nutrients.
+
+In your **Corn/Wheat dataset**, the following **Poaceae** weeds are present:
+- **Wild Oat** (*Avena fatua*)
+- **Kentucky Bluegrass** (*Poa pratensis*)
+- **Couch Grass** (*Agropyrum repens*)
+- **Bermuda Grass** (*Cynodon dactylon*)
+- **Barnyard Grass** (*Echinochloa crus-galli*)
+
+These species represent some of the **common grass-type weeds** that affect agricultural fields, particularly in broadleaf crops.
+
+---
+
+### Brassicaceae (Mustard Family) Weeds in Your Dataset
+
+URL: [MUSTARD](https://weed-ai.sydney.edu.au/datasets/aa0cb351-9b5a-400f-bb2e-ed02b2da3699)
+
+The **Brassicaceae** family, commonly known as the **mustard family**, contains **mustard-type weeds** and other related species. These weeds often emerge in agricultural systems, especially in **corn** and **wheat** fields, where they can be problematic due to their ability to thrive in disturbed soils.
+
+In your **Corn/Wheat dataset**, the following **Brassicaceae** weeds are present:
+- **Wild Mustard** (*Sinapis arvensis*)
+- **Black Mustard** (*Brassica nigra*)
+
+These species are typical **mustard-type weeds** that belong to the **Brassicaceae family**, which are commonly targeted for weed control in agricultural fields.
+
+---
+
+### Summary:
+- **Poaceae (Grass Family)**: Contains grass weeds like **Wild Oat**, **Kentucky Bluegrass**, **Couch Grass**, **Bermuda Grass**, and **Barnyard Grass** that are commonly found in **corn** and **wheat fields**.
+- **Brassicaceae (Mustard Family)**: Contains mustard-type weeds like **Wild Mustard** and **Black Mustard**, which also affect crop fields.
+
+These two families, **Poaceae** and **Brassicaceae**, are represented in your **Corn/Wheat dataset** and are key groups to consider when evaluating weed management strategies in agricultural systems.
